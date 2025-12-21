@@ -1,6 +1,5 @@
 # Desafio final: A Batalha contra o dragão
 
-
 # Vamos juntos para uma "batalha"!
 # Objetivo: Usar múltiplas funções de forma coordenada.
 
